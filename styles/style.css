@@ -1,0 +1,30 @@
+html {
+  	font-family: 'Ruslan Display', cursive;
+  	background-color: #ffefd4;
+}
+
+body {
+  	margin: 20px auto;
+  	background-color: #ffb328;
+  	padding: 0 20px 20px 20px;
+  	border: 5px solid black;
+}
+h1{
+	margin: 0px auto;
+	padding: 20px 0;
+	font-size: 45px;
+	letter-spacing: 5px;
+	color: #ffefd4;
+	text-shadow: 3px 3px 3px #000000;
+	text-align: center;
+}
+
+p, li{
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+}
